@@ -3,7 +3,7 @@
  * main - Entry poiny
  *
  * Return: always 0
- * /
+ */
 
 int main(void)
 {
