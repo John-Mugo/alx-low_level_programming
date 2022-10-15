@@ -3,7 +3,7 @@
 /**
  * main -entry point
  *
- * Retur:always return 0
+ * Return:always return 0
  *
  */
 
