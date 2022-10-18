@@ -3,7 +3,7 @@
  *print_alphabet_x10 - prints the alphabet 10 times
  */
 
-void void print_alphabet_x10(void)
+void print_alphabet_x10(void)
 {
 	int y = 0;
 	char letter;
