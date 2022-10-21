@@ -1,10 +1,12 @@
 #ifndef MAIN_H
 #define MAIN_H
+
+
 /*
  * File: main.h
- *
+ * Auth: John Mugo
  * Desc: Header file containing declarations for all functions
- * used in the debugging directory.
+ *        used in the debugging directory.
  *
  */
 
