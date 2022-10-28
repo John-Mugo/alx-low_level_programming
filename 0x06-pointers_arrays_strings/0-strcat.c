@@ -1,11 +1,12 @@
 #include "main.h"
-/*
-* *_strcat - function that concatenates two strings
-* @dest: elements destination array.
-* @src: elements of the source array.
-*
-* Return: a string of characters.
-*/
+
+/**
+ ** *_strcat - function that concatenates two strings
+ ** @dest: elements destination array.
+ ** @src: elements of the source array.
+ **
+ ** Return: a string of characters.
+ **/
 
 char *_strcat(char *dest, char *src)
 {
